@@ -13,6 +13,10 @@ nav li {
   color: #8f2440;
 }
 
+main {
+  font-family: 'PT Serif', serif;
+}
+
 figcaption {
   text-align: center;
   font-style: italic;
