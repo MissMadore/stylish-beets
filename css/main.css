@@ -19,6 +19,10 @@ h2 {
   font-size: 1.5rem;
 }
 
+h2 + ol {
+  list-style-type: lower-greek;
+}
+
 img {
   width: 100%;
 }
@@ -51,6 +55,10 @@ blockquote {
   text-align: center;
   font-style: italic;
   font-size: 1.5rem;
+}
+
+blockquote cite {
+  font-size: .8rem;
 }
 
 .beettime {
