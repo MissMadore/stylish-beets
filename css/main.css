@@ -65,3 +65,7 @@ blockquote cite {
   font-size: 1.125rem;
   font-weight: bold;
 }
+
+dl dt {
+  font-weight: bold;
+}
