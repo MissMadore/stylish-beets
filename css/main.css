@@ -6,11 +6,41 @@ html {
 
 h1 {
   color: #3f1622;
+  font-size: 1.5rem;
   font-weight: bold;
 }
 
+h2 {
+  font-size: 1.5rem;
+}
+
+img {
+  width: 100%;
+}
+
 nav li {
+  list-style-type: none;
+}
+
+nav a {
   color: #8f2440;
+  font-weight: bold;
+  text-decoration: none;
+}
+
+nav a:hover {
+  color: #3f1622;
+  text-decoration: underline;
+}
+
+cite a {
+  color:#8f2440;
+  text-decoration: none;
+}
+
+cite a:hover {
+  color: #3f1622;
+  text-decoration: underline;
 }
 
 main {
